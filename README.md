@@ -66,6 +66,7 @@ Raw Claims Data (CSV / GCS / S3)
 | `notebooks/01_claims_etl.ipynb` | ETL | Ingestion, validation, transformation, curated output |
 | `notebooks/02_sql_analytics.ipynb` | Analytics | Cost, utilization, risk, data quality queries |
 | `notebooks/03_llm_automation.ipynb` | LLM | Executive summaries, denial classification, NL→SQL |
+| `notebooks/04_visualizations.ipynb` | Visualization | EDA, cost drivers, risk segmentation, stakeholder charts |
 
 ---
 
